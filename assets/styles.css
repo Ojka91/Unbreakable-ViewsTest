@@ -105,3 +105,10 @@ p{
     text-decoration: none;
   }
 
+  .unbreakable{
+    font-family: 'Heebo', sans-serif;
+    color: #FFFFFF;
+
+text-shadow: 0 0 10px #FFFFFF;
+
+  }
