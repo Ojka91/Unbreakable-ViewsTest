@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+ <div id="app" class="height">
+    <!--Main Face-->
+        <div class="row height" id="main" v-if="view === 'main'">
+            <div class="col-12 flex-container">
+                <p class="letters">Unbreakable App</p>
+                <button type="button" class="btn btn-info" v-on:click="changeView('plan')">Get in</button>
+            </div>
+        </div>
+    <!--Main Face-->
+
+    <!--Select Plan -->
+        <div class="row height" id="plan" v-if="view === 'plan'">
+            <div class="col-12 flex-container ">        
+                <button type="button" class="btn btn-info planButton"  v-on:click="changeView('routine'); createRoutine(1)">Easy Routine</button>
+            </div>
+            <div class="col-12 flex-container "> 
+                <button type="button" class="btn btn-info planButton" v-on:click="changeView('routine'); createRoutine(3)">Medium Routine</button>
+            </div>
+        
+           <div class="col-12 flex-container ">        
+                <button type="button" class="btn btn-danger backMenu planButton" v-on:click="changeView('main')">Main Menu</button>
+            </div>
+                
+        </div>
+      <!--Select Plan -->
+
+      <!-- Routine-->
+        <div class="row height" id="routine" v-if="view === 'routine'">
+            <div class="col-12 flex-container">
+                <p>Between 8-12 repetitions of each exercice. If any hold, stand for 30 seconds. At least 5 rounds of each</p>
+            </div>
+            <div class="col-12 flex-container" v-for= "exercice in routine">
+                    <p> {{exercice.movement}}, {{exercice.variations}}</p>
+                </div>
+
+            <div class="col-12 flex-container ">        
+                    <button type="button" class="btn btn-danger backMenu planButton" v-on:click="changeView('plan')">Back</button>
+                </div>
+        </div>
+      <!-- Routine-->
+        
+        
+    </div>
+
+
+      <!-- vuejs development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <!--bootstrap-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="scripts/data.js"></script>
+    <script src="scripts/main.js"></script>
+
+</body>
+</html>
