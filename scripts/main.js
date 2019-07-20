@@ -64,6 +64,29 @@ var app = new Vue({
                this.routine.push(data.exercices[rnd5]); 
             }
 
+            if (lvl == 6){
+                while (data.exercices[rnd1].level < 5){
+                    rnd1 = Math.floor((Math.random() * 510));
+                }
+                while (data.exercices[rnd2].level < 5){
+                    rnd2 = Math.floor((Math.random() * 510));
+                }
+                while (data.exercices[rnd3].level < 5){
+                    rnd3 = Math.floor((Math.random() * 510));
+                }
+                while (data.exercices[rnd4].level < 5){
+                    rnd4 = Math.floor((Math.random() * 510));
+                }
+                while (data.exercices[rnd5].level < 5){
+                    rnd5 = Math.floor((Math.random() * 510));
+                }
+               this.routine.push(data.exercices[rnd1]);
+               this.routine.push(data.exercices[rnd2]);
+               this.routine.push(data.exercices[rnd3]);
+               this.routine.push(data.exercices[rnd4]);
+               this.routine.push(data.exercices[rnd5]); 
+            }
+
         
         
         },

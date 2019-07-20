@@ -14,22 +14,25 @@
         <div class="row height" id="main" v-if="view === 'main'">
             <div class="col-12 flex-container">
                 <p class="letters">Unbreakable App</p>
-                <button type="button" class="btn btn-info" v-on:click="changeView('plan')">Get in</button>
+                <button type="button" class="btn btn-info butn" v-on:click="changeView('plan')">Get in</button>
             </div>
         </div>
     <!--Main Face-->
 
     <!--Select Plan -->
-        <div class="row height" id="plan" v-if="view === 'plan'">
-            <div class="col-12 flex-container ">        
-                <button type="button" class="btn btn-info planButton"  v-on:click="changeView('routine'); createRoutine(1)">Easy Routine</button>
+        <div class=" height plan" id="plan" v-if="view === 'plan'">
+            <div class=" flex-plan ">        
+                <button type="button" class="btn btn-info planButton butn"  v-on:click="changeView('routine'); createRoutine(1)">Beginner</button>
             </div>
-            <div class="col-12 flex-container "> 
-                <button type="button" class="btn btn-info planButton" v-on:click="changeView('routine'); createRoutine(3)">Medium Routine</button>
+            <div class=" flex-plan "> 
+                <button type="button" class="btn btn-info planButton butn" v-on:click="changeView('routine'); createRoutine(3)">Advanced</button>
             </div>
+            <div class=" flex-plan "> 
+                    <button type="button" class="btn btn-info planButton butn" v-on:click="changeView('routine'); createRoutine(6)">Master</button>
+                </div>
         
-           <div class="col-12 flex-container ">        
-                <button type="button" class="btn btn-danger backMenu planButton" v-on:click="changeView('main')">Main Menu</button>
+           <div class=" flex-plan ">        
+                <button type="button" class="btn btn-danger backMenu planButton butn2" v-on:click="changeView('main')">Main Menu</button>
             </div>
                 
         </div>
@@ -45,7 +48,7 @@
                 </div>
 
             <div class="col-12 flex-container ">        
-                    <button type="button" class="btn btn-danger backMenu planButton" v-on:click="changeView('plan')">Back</button>
+                    <button type="button" class="btn btn-danger backMenu planButton butn2" v-on:click="changeView('plan')">Back</button>
                 </div>
         </div>
       <!-- Routine-->
