@@ -1,3904 +1,5229 @@
 var data = {
     "exercices": [
-    {
-        "group": "PUSH UP",
-        "variations": "Knee",
-        "movement": "Psh",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm hold",
-        "movement": "Psh",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Regular",
-        "movement": "Psh",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold",
-        "movement": "Psh",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Slow motion",
-        "movement": "Psh",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Incline",
-        "movement": "Psh",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Military",
-        "movement": "Psh",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "X-shape",
-        "movement": "Psh",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Explosive",
-        "movement": "Psh",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder taps",
-        "movement": "Psh",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half decline",
-        "movement": "Psh",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One knee tuck",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Decline",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wide",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Uneven",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Clap",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Zero gravity",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Crossing arms",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm rotations",
-        "movement": "Psh",
-        "level": 2,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Fingertip",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Fist",
-        "movement": "Psh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Archer",
-        "movement": "Psh",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Russian",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Diamond",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Deep",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hindu",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Dive bomber",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Spider crawl",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Typewriter",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Crucifix",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm incline",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Knee Lalanne aperture",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Clap behind single leg",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Fly",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg spider crawl",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm side aperture",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm front aperture",
-        "movement": "Psh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm negative",
-        "movement": "Psh",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Archer deep",
-        "movement": "Psh",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half aztec",
-        "movement": "Psh",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Muay thai",
-        "movement": "Psh",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lalanne hold",
-        "movement": "Psh",
-        "level": 4,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm",
-        "movement": "Psh",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lalanne",
-        "movement": "Psh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lalanne aperture",
-        "movement": "Psh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Cross combo",
-        "movement": "Psh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wall plank",
-        "movement": "Psh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Triple clap",
-        "movement": "Psh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tornado",
-        "movement": "Psh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Flying squirrel",
-        "movement": "Psh",
-        "level": 5,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Superman",
-        "movement": "Psh",
-        "level": 5,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Aztec",
-        "movement": "Psh",
-        "level": 5,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm russian",
-        "movement": "Psh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm one leg",
-        "movement": "Psh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lalanne one arm",
-        "movement": "Psh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm wall plank",
-        "movement": "Psh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Kuki",
-        "movement": "Psh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lalanne fingertip",
-        "movement": "Psh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Thumbs",
-        "movement": "Psh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bruce Lee",
-        "movement": "Psh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "DIP",
-        "variations": "Negative",
-        "movement": "Dp",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Floor dip",
-        "movement": "Dp",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bench dip",
-        "movement": "Dp",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Regular",
-        "movement": "Dp",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Advanced bench dip",
-        "movement": "Dp",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse push up",
-        "movement": "Dp",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Slow motion",
-        "movement": "Dp",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Russian",
-        "movement": "Dp",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Dip on single bar",
-        "movement": "Dp",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bulgarian",
-        "movement": "Dp",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Explosive",
-        "movement": "Dp",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Archer on single bar",
-        "movement": "Dp",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Korean",
-        "movement": "Dp",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Korean underhand",
-        "movement": "Dp",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Korean typewriter",
-        "movement": "Dp",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Archer",
-        "movement": "Dp",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "180 turn",
-        "movement": "Dp",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Impossible",
-        "movement": "Dp",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Front flip",
-        "movement": "Dp",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "TRICEPS EXTENSION",
-        "variations": "Tiger bend",
-        "movement": "Triceps",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Declined tiger bend",
-        "movement": "Triceps",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Skull crusher",
-        "movement": "Triceps",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "X-tricep",
-        "movement": "Triceps",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm tiger bend",
-        "movement": "Triceps",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm skull crusher",
-        "movement": "Triceps",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "PULL UP",
-        "variations": "Negative",
-        "movement": "Pll",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Scapula circles",
-        "movement": "Pll",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lat flies",
-        "movement": "Pll",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Regular",
-        "movement": "Pll",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold",
-        "movement": "Pll",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double hold",
-        "movement": "Pll",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Slow motion",
-        "movement": "Pll",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Narrow grip",
-        "movement": "Pll",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Chin up",
-        "movement": "Pll",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Neutral grip",
-        "movement": "Pll",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hammer grip",
-        "movement": "Pll",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Commando",
-        "movement": "Pll",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Scapula pull up",
-        "movement": "Pll",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wide grip",
-        "movement": "Pll",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "False grip",
-        "movement": "Pll",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "L-sit",
-        "movement": "Pll",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Headbanger",
-        "movement": "Pll",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Headbanger overhand grip",
-        "movement": "Pll",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Explosive",
-        "movement": "Pll",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Archer",
-        "movement": "Pll",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Typewriter",
-        "movement": "Pll",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Around the world",
-        "movement": "Pll",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Archer chin up",
-        "movement": "Pll",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Typewriter chin up",
-        "movement": "Pll",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "High",
-        "movement": "Pll",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Clap",
-        "movement": "Pll",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm underhand hold",
-        "movement": "Pll",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm on wrist",
-        "movement": "Pll",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Negative one arm",
-        "movement": "Pll",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Triangle motion",
-        "movement": "Pll",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Two fingers",
-        "movement": "Pll",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm chin up",
-        "movement": "Pll",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm",
-        "movement": "Pll",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One finger",
-        "movement": "Pll",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Toe touch",
-        "movement": "Pll",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": 360,
-        "movement": "Pll",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "BICEPS CURL",
-        "variations": "Inclined pelican curl",
-        "movement": "Biceps",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Australian curl",
-        "movement": "Biceps",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Advanced australian curl",
-        "movement": "Biceps",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pelican curl",
-        "movement": "Biceps",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Drag curls",
-        "movement": "Biceps",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Negative hefesto",
-        "movement": "Biceps",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Negative reverse muscle up",
-        "movement": "Biceps",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hefesto hold",
-        "movement": "Biceps",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hefesto",
-        "movement": "Biceps",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bent arm back lever hold",
-        "movement": "Biceps",
-        "level": 5,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse muscle up",
-        "movement": "Biceps",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "ROW",
-        "variations": "Scapula row",
-        "movement": "Rw",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Australian row",
-        "movement": "Rw",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Australian hold",
-        "movement": "Rw",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Australian underhand grip",
-        "movement": "Rw",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Australian neutral grip",
-        "movement": "Rw",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Australian slow motion",
-        "movement": "Rw",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Australian explosive",
-        "movement": "Rw",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Australian archer",
-        "movement": "Rw",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Advanced australian",
-        "movement": "Rw",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Vertical L-sit row",
-        "movement": "Rw",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm australian",
-        "movement": "Rw",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm advanced australian",
-        "movement": "Rw",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck front lever row",
-        "movement": "Rw",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle front lever row",
-        "movement": "Rw",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full front lever row",
-        "movement": "Rw",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "HANDSTAND",
-        "variations": "Wall hold",
-        "movement": "VPsh",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pike",
-        "movement": "VPsh",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Elevated pike",
-        "movement": "VPsh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Chest to wall walk",
-        "movement": "VPsh",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wall push up",
-        "movement": "VPsh",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder taps on wall",
-        "movement": "VPsh",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Forearm hold",
-        "movement": "VPsh",
-        "level": 3,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder stand hold",
-        "movement": "VPsh",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm wall hold",
-        "movement": "VPsh",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Free balance hold",
-        "movement": "VPsh",
-        "level": 4,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder stand raise",
-        "movement": "VPsh",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Raise",
-        "movement": "VPsh",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hand to headstand",
-        "movement": "VPsh",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Free balance push up",
-        "movement": "VPsh",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Deep",
-        "movement": "VPsh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bulgarian",
-        "movement": "VPsh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Japanese hold",
-        "movement": "VPsh",
-        "level": 5,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tiger bend",
-        "movement": "VPsh",
-        "level": 5,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hollow body hold",
-        "movement": "VPsh",
-        "level": 5,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder taps",
-        "movement": "VPsh",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Inverted cross hold",
-        "movement": "VPsh",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Impossible tiger bend",
-        "movement": "VPsh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm wall push up",
-        "movement": "VPsh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Clap",
-        "movement": "VPsh",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Inverted cross push",
-        "movement": "VPsh",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm hold",
-        "movement": "VPsh",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "90 push up",
-        "movement": "VPsh",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "SHRUG",
-        "variations": "Squeeze",
-        "movement": "VPsh",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Isometric",
-        "movement": "VPsh",
-        "level": 0,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wall handstand shrug",
-        "movement": "VPsh",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Handstand shrug",
-        "movement": "VPsh",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Inverted hang",
-        "movement": "VPsh",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "SQUAT",
-        "variations": "Air squat",
-        "movement": "Sqt",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "High steps",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Sumo",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Ski",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Front lunge",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Back lunge",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hamstring lever",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Calves raise",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wall sit",
-        "movement": "Sqt",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Horse stance hold",
-        "movement": "Sqt",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Squat jump",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Deep squat",
-        "movement": "Sqt",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Squat jump 180",
-        "movement": "Sqt",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Jumping alternate front lunge",
-        "movement": "Sqt",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Twisting squat",
-        "movement": "Sqt",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Squat + knee raise to elbow",
-        "movement": "Sqt",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lateral lunge",
-        "movement": "Sqt",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bulgarian split",
-        "movement": "Sqt",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Archer",
-        "movement": "Sqt",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Assissted pistol",
-        "movement": "Sqt",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Box pistol",
-        "movement": "Sqt",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Curtsy lunge",
-        "movement": "Sqt",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hamstring lever body lift",
-        "movement": "Sqt",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg calf raise",
-        "movement": "Sqt",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg wall sit",
-        "movement": "Sqt",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pistol",
-        "movement": "Sqt",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pistol squat jump",
-        "movement": "Sqt",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shotgun",
-        "movement": "Sqt",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "MUSCLE UP",
-        "variations": "Negative",
-        "movement": "MP",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Box assisted",
-        "movement": "MP",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Kipping",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Transition",
-        "movement": "MP",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Strict",
-        "movement": "MP",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Narrow grip",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "False grip",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "L-sit",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wide grip",
-        "movement": "MP",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Front Lever",
-        "movement": "MP",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Zig-zag",
-        "movement": "MP",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": 360,
-        "movement": "MP",
-        "level": 4,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Impossible",
-        "movement": "MP",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Clap behind back",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Step on the bar",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm",
-        "movement": "MP",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "PLANCHE",
-        "variations": "Frog stand",
-        "movement": "MP",
-        "level": 0,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pseudo planche push up",
-        "movement": "MP",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse hand push up",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck swing",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bent arm hold",
-        "movement": "MP",
-        "level": 2,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck hold",
-        "movement": "MP",
-        "level": 2,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Floating pseudo push up",
-        "movement": "MP",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck press",
-        "movement": "MP",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg hold",
-        "movement": "MP",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bouncing full press",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck maltese planche",
-        "movement": "MP",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg press",
-        "movement": "MP",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Mechanical advantage",
-        "movement": "MP",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One bent arm hold",
-        "movement": "MP",
-        "level": 4,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle press",
-        "movement": "MP",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle hold",
-        "movement": "MP",
-        "level": 5,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full hold",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full press",
-        "movement": "MP",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Dead planche",
-        "movement": "MP",
-        "level": 6,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Maltese planche",
-        "movement": "MP",
-        "level": 6,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Maltese cross fingertip",
-        "movement": "MP",
-        "level": 6,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Forearm planche",
-        "movement": "MP",
-        "level": 6,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm hold",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm side hold",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Flying press",
-        "movement": "MP",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "360 press",
-        "movement": "MP",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "FRONT PULL",
-        "variations": "Negative",
-        "movement": "MP",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pull out",
-        "movement": "MP",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Crank",
-        "movement": "MP",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck front lever",
-        "movement": "MP",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck raise",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half pull up",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Elbow manna hold",
-        "movement": "MP",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Elbow manna raises",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "L-dragon press",
-        "movement": "MP",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg front lever",
-        "movement": "MP",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle raise",
-        "movement": "MP",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle front lever",
-        "movement": "MP",
-        "level": 5,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full front lever",
-        "movement": "MP",
-        "level": 5,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "In and outs front lever",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pull up",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Manna raise",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Dragon press",
-        "movement": "MP",
-        "level": 5,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Manna",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full raise",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Two fingers full raise",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Victorian cross",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Close to impossible",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm front lever",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm raise",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse planche",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "group": "BACK PULL",
-        "variations": "Negative",
-        "movement": "MP",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse australian row",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse crank",
-        "movement": "MP",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck back lever",
-        "movement": "MP",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck raise",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg back lever",
-        "movement": "MP",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle raise",
-        "movement": "MP",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle back lever",
-        "movement": "MP",
-        "level": 5,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full back lever",
-        "movement": "MP",
-        "level": 5,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Back lever pull up",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full raise",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Two fingers full raise",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm back lever",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Maltese cross",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "group": "SIDE PULL (HUMAN FLAG)",
-        "variations": "Clutch flag tuck",
-        "movement": "MP",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Flag jumps",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Negative",
-        "movement": "MP",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Clutch flag full",
-        "movement": "MP",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck lever",
-        "movement": "MP",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck raise",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Low lever",
-        "movement": "MP",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "High lever",
-        "movement": "MP",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle lever",
-        "movement": "MP",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle raise",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Upper half pull",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lower half pull",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full lever",
-        "movement": "MP",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full raise",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Muscle up",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Legs through",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "IRON CROSS",
-        "variations": "Negative",
-        "movement": "MP",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Box assisted",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Forearm hold",
-        "movement": "MP",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Forearm pull",
-        "movement": "MP",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half pull",
-        "movement": "MP",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm aperture",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold",
-        "movement": "MP",
-        "level": 4,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pull",
-        "movement": "MP",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "COMBINED",
-        "variations": "Skin the cat",
-        "movement": "MP",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck yewkis",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Yewkis",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pull over",
-        "movement": "MP",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Naner",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wide yewkis",
-        "movement": "MP",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder flag hold",
-        "movement": "MP",
-        "level": 3,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pelican push up",
-        "movement": "MP",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck maltese press",
-        "movement": "MP",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse pull over",
-        "movement": "MP",
-        "level": 4,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "360 pull",
-        "movement": "MP",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder flag raise",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Inverted handstand raise",
-        "movement": "MP",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tick tock",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Muscle up to handstand",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Maltese press",
-        "movement": "MP",
-        "level": 6,
-        "t": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Vangelder",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "FL to VC to RevPlanche",
-        "movement": "MP",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "GRIP",
-        "variations": "Bar dead hang",
-        "movement": "Forearm",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm bar dead hang",
-        "movement": "Forearm",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Alternating arm dead hang",
-        "movement": "Forearm",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "False grip hang",
-        "movement": "Forearm",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Two fingers hang",
-        "movement": "Forearm",
-        "level": 2,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Inverted hand plank hold",
-        "movement": "Forearm",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Fingertip hold",
-        "movement": "Forearm",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Finger extension push",
-        "movement": "Forearm",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "SPECIFIC",
-        "variations": "Rings straight arms hold",
-        "movement": "Stabilizing",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Rings inverted hang",
-        "movement": "Stabilizing",
-        "level": 2,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Contralateral limb raises",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pilates leg pulls",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side leg pulls",
-        "movement": "Sqt",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half bridge hold",
-        "movement": "MP",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg half bridge hold",
-        "movement": "MP",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bridge hold",
-        "movement": "MP",
-        "level": 2,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bridge push up",
-        "movement": "MP",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse bridge",
-        "movement": "MP",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse hollow body hold",
-        "movement": "MP",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half reverse hollow body",
-        "movement": "MP",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Prone I's/Y's/W's",
-        "movement": "Rw",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Prone hold",
-        "movement": "Rw",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Front plate neck",
-        "movement": "Neck",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Back plate neck",
-        "movement": "Neck",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Head plank",
-        "movement": "Neck",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wall headstand",
-        "movement": "Neck",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Free headstand",
-        "movement": "Neck",
-        "level": 6,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "group": "CRUNCH",
-        "variations": "Regular",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Bicycle",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Head lift",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Heel touch",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half one leg hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "V-crunch",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Toe touch",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Alternating toe touch",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Crossed toe touch hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "To side",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Twisting",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse to side",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half to side",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Dead bug",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Criss cross",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Crossover",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Arms extended",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double toe touch",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double twist hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Alternating double toe touch",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One breath",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double dead bug",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Thai crunches",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "X double",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double twisting",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Monk",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Monk hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Monk twisting",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "SIT UP",
-        "variations": "Regular",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Russian twist",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold with kicks",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Russian twist alternating leg touch",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double russian twist",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Slow motion",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Twisting",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Crossover",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Roll up",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Roll up + back roll",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "SIDE RAISE",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": "-",
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "LYING LEG RAISE",
-        "variations": "Regular",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Slow negative",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Two inches hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Pulse up",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Flutter crunches",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Flutter kicks",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hollow body hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hollow body rolls",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side raise",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Scissors",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Back lift",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Back lift hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Windmill",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 3,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double pulse up",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half lying windshield wipers",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lying windshield wipers",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "PLANK",
-        "variations": "Knee plank",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 0,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Regular",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lift",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Twisting core",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side lift",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 1,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Spiderman",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side rotation",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Walking",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Semi advanced",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Advanced",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One leg",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Elbows off",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Advanced one leg",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Advanced aperture",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm and one leg",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Lalanne hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wall",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 6,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Climbdown",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "PIKE UP",
-        "variations": "Drift",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Drift to side",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Jump toe touch to side",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Spring ",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "L-SIT",
-        "variations": "Tuck hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 0,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "L-hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck raises",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "L raises",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Twisted tuck raises",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Twisting L",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Flutter kicks",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Advanced L-hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "L to V",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "V-hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "group": "V-UP",
-        "variations": "Half",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "V-hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half leg in and out",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "V-twist",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half to side",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Alternating toe touch",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straddle",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side V-sit hold",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 4,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Full",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side one arm",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 5,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "DRAGON FLAG",
-        "variations": "Negative",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Tuck",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Raise",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Flutter kicks",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half to top",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "In and outs",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Double",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Windshield wipers",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder flag hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "skill": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Shoulder flag raise",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 6,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "HANGING LEG RAISE",
-        "variations": "Knee raise",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 0,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Knee raise hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 0,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "L-hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side knee raise",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Straight leg push",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Half windshield wipers",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Flutter kicks",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 2,
-        "rep": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Leg raise",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm L-hold",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 3,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "L to V",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side raise",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Crossed side raise",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Circular",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Windshield wipers",
-        "movement": "Core",
-        "target": "Obliques",
-        "level": 4,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "One arm raise",
-        "movement": "Core",
-        "target": "ABS",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "ELEVATED HIP RAISE",
-        "variations": "Regular",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": "-",
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "ARCH UP",
-        "variations": "Regular",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Side to side",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Twisting",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Swimmer",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Circular",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Superman",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Inclined",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 3,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "group": "REVERSE LEG RAISE",
-        "variations": "Reverse hyper",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 1,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Hold",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 1,
-        "rep": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Reverse flutter kicks",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Stall bar",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 2,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Headstand",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 3,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    },
-    {
-        "variations": "Wall handstand",
-        "movement": "Core",
-        "target": "Lower back",
-        "level": 5,
-        "levelBreaktrhough": 1,
-        "equipment": 1,
-        "undefined": 1
-    }
-]}
+        {
+            "id": 1,
+            "group": "PUSH UP",
+            "variation": "Knee",
+            "movement": "Push",
+            "level": 0,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 2,
+            "group": "PUSH UP",
+            "variation": "One arm hold",
+            "movement": "Push",
+            "level": 0,
+            "repetitions": 1,
+            "floor": 1,
+            "support": 1
+        },
+        {
+            "id": 3,
+            "group": "PUSH UP",
+            "variation": "Regular",
+            "movement": "Push",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 4,
+            "group": "PUSH UP",
+            "variation": "Hold",
+            "movement": "Push",
+            "level": 1,
+            "time": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 5,
+            "group": "PUSH UP",
+            "variation": "Slow motion",
+            "movement": "Push",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 6,
+            "group": "PUSH UP",
+            "variation": "Incline",
+            "movement": "Push",
+            "level": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "support": 1
+        },
+        {
+            "id": 7,
+            "group": "PUSH UP",
+            "variation": "Military",
+            "movement": "Push",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 8,
+            "group": "PUSH UP",
+            "variation": "X-shape",
+            "movement": "Push",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 9,
+            "group": "PUSH UP",
+            "variation": "Explosive",
+            "movement": "Push",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 10,
+            "group": "PUSH UP",
+            "variation": "Shoulder taps",
+            "movement": "Push",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 11,
+            "group": "PUSH UP",
+            "variation": "Half decline",
+            "movement": "Push",
+            "level": 1,
+            "repetitions": 1,
+            "lowbar": 1,
+            "support": 1
+        },
+        {
+            "id": 12,
+            "group": "PUSH UP",
+            "variation": "One knee tuck",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1,
+            "support": 1
+        },
+        {
+            "id": 13,
+            "group": "PUSH UP",
+            "variation": "Decline",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "support": 1
+        },
+        {
+            "id": 14,
+            "group": "PUSH UP",
+            "variation": "Wide",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 15,
+            "group": "PUSH UP",
+            "variation": "Uneven",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "parallettes": 1,
+            "support": 1
+        },
+        {
+            "id": 16,
+            "group": "PUSH UP",
+            "variation": "Clap",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 17,
+            "group": "PUSH UP",
+            "variation": "Zero gravity",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 18,
+            "group": "PUSH UP",
+            "variation": "Crossing arms",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 19,
+            "group": "PUSH UP",
+            "variation": "One arm rotations",
+            "movement": "Push",
+            "level": 2,
+            "time": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 20,
+            "group": "PUSH UP",
+            "variation": "Fingertip",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 21,
+            "group": "PUSH UP",
+            "variation": "Fist",
+            "movement": "Push",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 22,
+            "group": "PUSH UP",
+            "variation": "Archer",
+            "movement": "Push",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 23,
+            "group": "PUSH UP",
+            "variation": "Russian",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 24,
+            "group": "PUSH UP",
+            "variation": "Diamond",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 25,
+            "group": "PUSH UP",
+            "variation": "Deep",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 26,
+            "group": "PUSH UP",
+            "variation": "Hindu",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 27,
+            "group": "PUSH UP",
+            "variation": "Dive bomber",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 28,
+            "group": "PUSH UP",
+            "variation": "Spider crawl",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 29,
+            "group": "PUSH UP",
+            "variation": "Typewriter",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1
+        },
+        {
+            "id": 30,
+            "group": "PUSH UP",
+            "variation": "Crucifix",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 31,
+            "group": "PUSH UP",
+            "variation": "One arm incline",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "support": 1
+        },
+        {
+            "id": 32,
+            "group": "PUSH UP",
+            "variation": "Knee Lalanne aperture",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 33,
+            "group": "PUSH UP",
+            "variation": "Clap behind single leg",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 34,
+            "group": "PUSH UP",
+            "variation": "Fly",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 35,
+            "group": "PUSH UP",
+            "variation": "One leg spider crawl",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1,
+            "support": 1
+        },
+        {
+            "id": 36,
+            "group": "PUSH UP",
+            "variation": "One arm side aperture",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1,
+            "rings": 1
+        },
+        {
+            "id": 37,
+            "group": "PUSH UP",
+            "variation": "One arm front aperture",
+            "movement": "Push",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1,
+            "rings": 1
+        },
+        {
+            "id": 38,
+            "group": "PUSH UP",
+            "variation": "One arm negative",
+            "movement": "Push",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 39,
+            "group": "PUSH UP",
+            "variation": "Archer deep",
+            "movement": "Push",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 40,
+            "group": "PUSH UP",
+            "variation": "Half aztec",
+            "movement": "Push",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 41,
+            "group": "PUSH UP",
+            "variation": "Muay thai",
+            "movement": "Push",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 42,
+            "group": "PUSH UP",
+            "variation": "Lalanne hold",
+            "movement": "Push",
+            "level": 4,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "rings": 1
+        },
+        {
+            "id": 43,
+            "group": "PUSH UP",
+            "variation": "One arm",
+            "movement": "Push",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1
+        },
+        {
+            "id": 44,
+            "group": "PUSH UP",
+            "variation": "Lalanne",
+            "movement": "Push",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1,
+            "rings": 1
+        },
+        {
+            "id": 45,
+            "group": "PUSH UP",
+            "variation": "Lalanne aperture",
+            "movement": "Push",
+            "level": 5,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 46,
+            "group": "PUSH UP",
+            "variation": "Cross combo",
+            "movement": "Push",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 47,
+            "group": "PUSH UP",
+            "variation": "Wall plank",
+            "movement": "Push",
+            "level": 5,
+            "repetitions": 1,
+            "wall": 1
+        },
+        {
+            "id": 48,
+            "group": "PUSH UP",
+            "variation": "Triple clap",
+            "movement": "Push",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 49,
+            "group": "PUSH UP",
+            "variation": "Tornado",
+            "movement": "Push",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 50,
+            "group": "PUSH UP",
+            "variation": "Flying squirrel",
+            "movement": "Push",
+            "level": 5,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 51,
+            "group": "PUSH UP",
+            "variation": "Superman",
+            "movement": "Push",
+            "level": 5,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 52,
+            "group": "PUSH UP",
+            "variation": "Aztec",
+            "movement": "Push",
+            "level": 5,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 53,
+            "group": "PUSH UP",
+            "variation": "One arm russian",
+            "movement": "Push",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 54,
+            "group": "PUSH UP",
+            "variation": "One arm one leg",
+            "movement": "Push",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 55,
+            "group": "PUSH UP",
+            "variation": "Lalanne one arm",
+            "movement": "Push",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 56,
+            "group": "PUSH UP",
+            "variation": "One arm wall plank",
+            "movement": "Push",
+            "level": 6,
+            "repetitions": 1,
+            "wall": 1
+        },
+        {
+            "id": 57,
+            "group": "PUSH UP",
+            "variation": "Kuki",
+            "movement": "Push",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 58,
+            "group": "PUSH UP",
+            "variation": "Lalanne fingertip",
+            "movement": "Push",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 59,
+            "group": "PUSH UP",
+            "variation": "Thumbs",
+            "movement": "Push",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 60,
+            "group": "PUSH UP",
+            "variation": "Bruce Lee",
+            "movement": "Push",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 61,
+            "group": "DIP",
+            "variation": "Negative",
+            "movement": "Dip",
+            "level": 0,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 62,
+            "group": "DIP",
+            "variation": "Floor dip",
+            "movement": "Dip",
+            "level": 0,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 63,
+            "group": "DIP",
+            "variation": "Bench dip",
+            "movement": "Dip",
+            "level": 0,
+            "repetitions": 1,
+            "lowbar": 1,
+            "swedishladder": 1,
+            "support": 1
+        },
+        {
+            "id": 64,
+            "group": "DIP",
+            "variation": "Regular",
+            "movement": "Dip",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 65,
+            "group": "DIP",
+            "variation": "Advanced bench dip",
+            "movement": "Dip",
+            "level": 1,
+            "repetitions": 1,
+            "lowbar": 1,
+            "swedishladder": 1,
+            "support": 1
+        },
+        {
+            "id": 66,
+            "group": "DIP",
+            "variation": "Reverse push up",
+            "movement": "Dip",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 67,
+            "group": "DIP",
+            "variation": "Slow motion",
+            "movement": "Dip",
+            "level": 2,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 68,
+            "group": "DIP",
+            "variation": "Russian",
+            "movement": "Dip",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 69,
+            "group": "DIP",
+            "variation": "Dip on single bar",
+            "movement": "Dip",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 70,
+            "group": "DIP",
+            "variation": "Bulgarian",
+            "movement": "Dip",
+            "level": 3,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 71,
+            "group": "DIP",
+            "variation": "Explosive",
+            "movement": "Dip",
+            "level": 3,
+            "repetitions": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 72,
+            "group": "DIP",
+            "variation": "Archer on single bar",
+            "movement": "Dip",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 73,
+            "group": "DIP",
+            "variation": "Korean",
+            "movement": "Dip",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 74,
+            "group": "DIP",
+            "variation": "Korean underhand",
+            "movement": "Dip",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 75,
+            "group": "DIP",
+            "variation": "Korean typewriter",
+            "movement": "Dip",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 76,
+            "group": "DIP",
+            "variation": "Archer",
+            "movement": "Dip",
+            "level": 5,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 77,
+            "group": "DIP",
+            "variation": "180 turn",
+            "movement": "Dip",
+            "level": 5,
+            "repetitions": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 78,
+            "group": "DIP",
+            "variation": "Impossible",
+            "movement": "Dip",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 79,
+            "group": "DIP",
+            "variation": "Front flip",
+            "movement": "Dip",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 80,
+            "group": "TRICEPS EXTENSION",
+            "variation": "Tiger bend",
+            "movement": "Triceps",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 81,
+            "group": "TRICEPS EXTENSION",
+            "variation": "Declined tiger bend",
+            "movement": "Triceps",
+            "level": 2,
+            "repetitions": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 82,
+            "group": "TRICEPS EXTENSION",
+            "variation": "Skull crusher",
+            "movement": "Triceps",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "swedishladder": 1,
+            "rings": 1
+        },
+        {
+            "id": 83,
+            "group": "TRICEPS EXTENSION",
+            "variation": "X-tricep",
+            "movement": "Triceps",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 84,
+            "group": "TRICEPS EXTENSION",
+            "variation": "One arm tiger bend",
+            "movement": "Triceps",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1,
+            "lowbar": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 85,
+            "group": "TRICEPS EXTENSION",
+            "variation": "One arm skull crusher",
+            "movement": "Triceps",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "swedishladder": 1,
+            "rings": 1
+        },
+        {
+            "id": 86,
+            "group": "PULL UP",
+            "variation": "Negative",
+            "movement": "Pull",
+            "level": 0,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 87,
+            "group": "PULL UP",
+            "variation": "Scapula circles",
+            "movement": "Pull",
+            "level": 0,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 88,
+            "group": "PULL UP",
+            "variation": "Lat flies",
+            "movement": "Pull",
+            "level": 0,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 89,
+            "group": "PULL UP",
+            "variation": "Regular",
+            "movement": "Pull",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 90,
+            "group": "PULL UP",
+            "variation": "Hold",
+            "movement": "Pull",
+            "level": 1,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 91,
+            "group": "PULL UP",
+            "variation": "Double hold",
+            "movement": "Pull",
+            "level": 1,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 92,
+            "group": "PULL UP",
+            "variation": "Slow motion",
+            "movement": "Pull",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 93,
+            "group": "PULL UP",
+            "variation": "Narrow grip",
+            "movement": "Pull",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 94,
+            "group": "PULL UP",
+            "variation": "Chin up",
+            "movement": "Pull",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 95,
+            "group": "PULL UP",
+            "variation": "Neutral grip",
+            "movement": "Pull",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 96,
+            "group": "PULL UP",
+            "variation": "Hammer grip",
+            "movement": "Pull",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 97,
+            "group": "PULL UP",
+            "variation": "Commando",
+            "movement": "Pull",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 98,
+            "group": "PULL UP",
+            "variation": "Scapula pull up",
+            "movement": "Pull",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 99,
+            "group": "PULL UP",
+            "variation": "Wide grip",
+            "movement": "Pull",
+            "level": 2,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 100,
+            "group": "PULL UP",
+            "variation": "False grip",
+            "movement": "Pull",
+            "level": 2,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 101,
+            "group": "PULL UP",
+            "variation": "L-sit",
+            "movement": "Pull",
+            "level": 2,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 102,
+            "group": "PULL UP",
+            "variation": "Headbanger",
+            "movement": "Pull",
+            "level": 2,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 103,
+            "group": "PULL UP",
+            "variation": "Headbanger overhand grip",
+            "movement": "Pull",
+            "level": 2,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 104,
+            "group": "PULL UP",
+            "variation": "Explosive",
+            "movement": "Pull",
+            "level": 2,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 105,
+            "group": "PULL UP",
+            "variation": "Archer",
+            "movement": "Pull",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 106,
+            "group": "PULL UP",
+            "variation": "Typewriter",
+            "movement": "Pull",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 107,
+            "group": "PULL UP",
+            "variation": "Around the world",
+            "movement": "Pull",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 108,
+            "group": "PULL UP",
+            "variation": "Archer chin up",
+            "movement": "Pull",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 109,
+            "group": "PULL UP",
+            "variation": "Typewriter chin up",
+            "movement": "Pull",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 110,
+            "group": "PULL UP",
+            "variation": "High",
+            "movement": "Pull",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 111,
+            "group": "PULL UP",
+            "variation": "Clap",
+            "movement": "Pull",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 112,
+            "group": "PULL UP",
+            "variation": "One arm underhand hold",
+            "movement": "Pull",
+            "level": 3,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 113,
+            "group": "PULL UP",
+            "variation": "One arm on wrist",
+            "movement": "Pull",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 114,
+            "group": "PULL UP",
+            "variation": "Negative one arm",
+            "movement": "Pull",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 115,
+            "group": "PULL UP",
+            "variation": "Triangle motion",
+            "movement": "Pull",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 116,
+            "group": "PULL UP",
+            "variation": "Two fingers",
+            "movement": "Pull",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 117,
+            "group": "PULL UP",
+            "variation": "One arm chin up",
+            "movement": "Pull",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 118,
+            "group": "PULL UP",
+            "variation": "One arm",
+            "movement": "Pull",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 119,
+            "group": "PULL UP",
+            "variation": "One finger",
+            "movement": "Pull",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 120,
+            "group": "PULL UP",
+            "variation": "Toe touch",
+            "movement": "Pull",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 121,
+            "group": "PULL UP",
+            "variation": 360,
+            "movement": "Pull",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 122,
+            "group": "BICEPS CURL",
+            "variation": "Inclined pelican curl",
+            "movement": "Biceps",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 123,
+            "group": "BICEPS CURL",
+            "variation": "Australian curl",
+            "movement": "Biceps",
+            "level": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 124,
+            "group": "BICEPS CURL",
+            "variation": "Advanced australian curl",
+            "movement": "Biceps",
+            "level": 2,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 125,
+            "group": "BICEPS CURL",
+            "variation": "Pelican curl",
+            "movement": "Biceps",
+            "level": 2,
+            "repetitions": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 126,
+            "group": "BICEPS CURL",
+            "variation": "Drag curls",
+            "movement": "Biceps",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 127,
+            "group": "BICEPS CURL",
+            "variation": "Negative hefesto",
+            "movement": "Biceps",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 128,
+            "group": "BICEPS CURL",
+            "variation": "Negative reverse muscle up",
+            "movement": "Biceps",
+            "level": 4,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 129,
+            "group": "BICEPS CURL",
+            "variation": "Hefesto hold",
+            "movement": "Biceps",
+            "level": 4,
+            "time": 1,
+            "highbar": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 130,
+            "group": "BICEPS CURL",
+            "variation": "Hefesto",
+            "movement": "Biceps",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 131,
+            "group": "BICEPS CURL",
+            "variation": "Bent arm back lever hold",
+            "movement": "Biceps",
+            "level": 5,
+            "time": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 132,
+            "group": "BICEPS CURL",
+            "variation": "Reverse muscle up",
+            "movement": "Biceps",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 133,
+            "group": "ROW",
+            "variation": "Scapula row",
+            "movement": "Row",
+            "level": 0,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 134,
+            "group": "ROW",
+            "variation": "Australian row",
+            "movement": "Row",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 135,
+            "group": "ROW",
+            "variation": "Australian hold",
+            "movement": "Row",
+            "level": 1,
+            "time": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 136,
+            "group": "ROW",
+            "variation": "Australian underhand grip",
+            "movement": "Row",
+            "level": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 137,
+            "group": "ROW",
+            "variation": "Australian neutral grip",
+            "movement": "Row",
+            "level": 1,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 138,
+            "group": "ROW",
+            "variation": "Australian slow motion",
+            "movement": "Row",
+            "level": 1,
+            "repetitions": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 139,
+            "group": "ROW",
+            "variation": "Australian explosive",
+            "movement": "Row",
+            "level": 2,
+            "repetitions": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 140,
+            "group": "ROW",
+            "variation": "Australian archer",
+            "movement": "Row",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 141,
+            "group": "ROW",
+            "variation": "Advanced australian",
+            "movement": "Row",
+            "level": 3,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 142,
+            "group": "ROW",
+            "variation": "Vertical L-sit row",
+            "movement": "Row",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 143,
+            "group": "ROW",
+            "variation": "One arm australian",
+            "movement": "Row",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 144,
+            "group": "ROW",
+            "variation": "One arm advanced australian",
+            "movement": "Row",
+            "level": 5,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 145,
+            "group": "ROW",
+            "variation": "Tuck front lever row",
+            "movement": "Row",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 146,
+            "group": "ROW",
+            "variation": "Straddle front lever row",
+            "movement": "Row",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 147,
+            "group": "ROW",
+            "variation": "Full front lever row",
+            "movement": "Row",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 148,
+            "group": "HANDSTAND",
+            "variation": "Wall hold",
+            "movement": "Vertical Push",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "swedishladder": 1,
+            "wall": 1
+        },
+        {
+            "id": 149,
+            "group": "HANDSTAND",
+            "variation": "Pike",
+            "movement": "Vertical Push",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 150,
+            "group": "HANDSTAND",
+            "variation": "Elevated pike",
+            "movement": "Vertical Push",
+            "level": 2,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "support": 1
+        },
+        {
+            "id": 151,
+            "group": "HANDSTAND",
+            "variation": "Chest to wall walk",
+            "movement": "Vertical Push",
+            "level": 2,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "wall": 1
+        },
+        {
+            "id": 152,
+            "group": "HANDSTAND",
+            "variation": "Wall push up",
+            "movement": "Vertical Push",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "wall": 1
+        },
+        {
+            "id": 153,
+            "group": "HANDSTAND",
+            "variation": "Shoulder taps on wall",
+            "movement": "Vertical Push",
+            "level": 3,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "wall": 1
+        },
+        {
+            "id": 154,
+            "group": "HANDSTAND",
+            "variation": "Forearm hold",
+            "movement": "Vertical Push",
+            "level": 3,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 155,
+            "group": "HANDSTAND",
+            "variation": "Shoulder stand hold",
+            "movement": "Vertical Push",
+            "level": 3,
+            "time": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 156,
+            "group": "HANDSTAND",
+            "variation": "One arm wall hold",
+            "movement": "Vertical Push",
+            "level": 4,
+            "time": 1,
+            "swedishladder": 1,
+            "wall": 1
+        },
+        {
+            "id": 157,
+            "group": "HANDSTAND",
+            "variation": "Free balance hold",
+            "movement": "Vertical Push",
+            "level": 4,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "lowbar": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 158,
+            "group": "HANDSTAND",
+            "variation": "Shoulder stand raise",
+            "movement": "Vertical Push",
+            "level": 4,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 159,
+            "group": "HANDSTAND",
+            "variation": "Raise",
+            "movement": "Vertical Push",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 160,
+            "group": "HANDSTAND",
+            "variation": "Hand to headstand",
+            "movement": "Vertical Push",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 161,
+            "group": "HANDSTAND",
+            "variation": "Free balance push up",
+            "movement": "Vertical Push",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "lowbar": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 162,
+            "group": "HANDSTAND",
+            "variation": "Deep",
+            "movement": "Vertical Push",
+            "level": 5,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 163,
+            "group": "HANDSTAND",
+            "variation": "Bulgarian",
+            "movement": "Vertical Push",
+            "level": 5,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 164,
+            "group": "HANDSTAND",
+            "variation": "Japanese hold",
+            "movement": "Vertical Push",
+            "level": 5,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 165,
+            "group": "HANDSTAND",
+            "variation": "Tiger bend",
+            "movement": "Vertical Push",
+            "level": 5,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 166,
+            "group": "HANDSTAND",
+            "variation": "Hollow body hold",
+            "movement": "Vertical Push",
+            "level": 5,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 167,
+            "group": "HANDSTAND",
+            "variation": "Shoulder taps",
+            "movement": "Vertical Push",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 168,
+            "group": "HANDSTAND",
+            "variation": "Inverted cross hold",
+            "movement": "Vertical Push",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 169,
+            "group": "HANDSTAND",
+            "variation": "Impossible tiger bend",
+            "movement": "Vertical Push",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 170,
+            "group": "HANDSTAND",
+            "variation": "One arm wall push up",
+            "movement": "Vertical Push",
+            "level": 6,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "wall": 1
+        },
+        {
+            "id": 171,
+            "group": "HANDSTAND",
+            "variation": "Clap",
+            "movement": "Vertical Push",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 172,
+            "group": "HANDSTAND",
+            "variation": "Inverted cross push",
+            "movement": "Vertical Push",
+            "level": 6,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 173,
+            "group": "HANDSTAND",
+            "variation": "One arm hold",
+            "movement": "Vertical Push",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 174,
+            "group": "HANDSTAND",
+            "variation": "90 push up",
+            "movement": "Vertical Push",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 175,
+            "group": "SHRUG",
+            "variation": "Squeeze",
+            "movement": "Vertical Push",
+            "level": 0,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 176,
+            "group": "SHRUG",
+            "variation": "Isometric",
+            "movement": "Vertical Push",
+            "level": 0,
+            "time": 1,
+            "mediumbar": 1
+        },
+        {
+            "id": 177,
+            "group": "SHRUG",
+            "variation": "Wall handstand shrug",
+            "movement": "Vertical Push",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "wall": 1
+        },
+        {
+            "id": 178,
+            "group": "SHRUG",
+            "variation": "Handstand shrug",
+            "movement": "Vertical Push",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 179,
+            "group": "SHRUG",
+            "variation": "Inverted hang",
+            "movement": "Vertical Push",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 180,
+            "group": "SQUAT",
+            "variation": "Air squat",
+            "movement": "Squat",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 181,
+            "group": "SQUAT",
+            "variation": "High steps",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 182,
+            "group": "SQUAT",
+            "variation": "Sumo",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 183,
+            "group": "SQUAT",
+            "variation": "Ski",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 184,
+            "group": "SQUAT",
+            "variation": "Front lunge",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 185,
+            "group": "SQUAT",
+            "variation": "Back lunge",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 186,
+            "group": "SQUAT",
+            "variation": "Hamstring lever",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 187,
+            "group": "SQUAT",
+            "variation": "Calves raise",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "support": 1
+        },
+        {
+            "id": 188,
+            "group": "SQUAT",
+            "variation": "Wall sit",
+            "movement": "Squat",
+            "level": 1,
+            "time": 1,
+            "wall": 1,
+            "support": 1
+        },
+        {
+            "id": 189,
+            "group": "SQUAT",
+            "variation": "Horse stance hold",
+            "movement": "Squat",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 190,
+            "group": "SQUAT",
+            "variation": "Squat jump",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 191,
+            "group": "SQUAT",
+            "variation": "Deep squat",
+            "movement": "Squat",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 192,
+            "group": "SQUAT",
+            "variation": "Squat jump 180",
+            "movement": "Squat",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 193,
+            "group": "SQUAT",
+            "variation": "Jumping alternate front lunge",
+            "movement": "Squat",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 194,
+            "group": "SQUAT",
+            "variation": "Twisting squat",
+            "movement": "Squat",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 195,
+            "group": "SQUAT",
+            "variation": "Squat + knee raise to elbow",
+            "movement": "Squat",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 196,
+            "group": "SQUAT",
+            "variation": "Lateral lunge",
+            "movement": "Squat",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 197,
+            "group": "SQUAT",
+            "variation": "Bulgarian split",
+            "movement": "Squat",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "lowbar": 1,
+            "support": 1
+        },
+        {
+            "id": 198,
+            "group": "SQUAT",
+            "variation": "Archer",
+            "movement": "Squat",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 199,
+            "group": "SQUAT",
+            "variation": "Assissted pistol",
+            "movement": "Squat",
+            "level": 3,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "wall": 1,
+            "support": 1
+        },
+        {
+            "id": 200,
+            "group": "SQUAT",
+            "variation": "Box pistol",
+            "movement": "Squat",
+            "level": 3,
+            "repetitions": 1,
+            "lowbar": 1,
+            "support": 1
+        },
+        {
+            "id": 201,
+            "group": "SQUAT",
+            "variation": "Curtsy lunge",
+            "movement": "Squat",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 202,
+            "group": "SQUAT",
+            "variation": "Hamstring lever body lift",
+            "movement": "Squat",
+            "level": 3,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 203,
+            "group": "SQUAT",
+            "variation": "One leg calf raise",
+            "movement": "Squat",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1,
+            "support": 1
+        },
+        {
+            "id": 204,
+            "group": "SQUAT",
+            "variation": "One leg wall sit",
+            "movement": "Squat",
+            "level": 4,
+            "time": 1,
+            "wall": 1
+        },
+        {
+            "id": 205,
+            "group": "SQUAT",
+            "variation": "Pistol",
+            "movement": "Squat",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 206,
+            "group": "SQUAT",
+            "variation": "Pistol squat jump",
+            "movement": "Squat",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 207,
+            "group": "SQUAT",
+            "variation": "Shotgun",
+            "movement": "Squat",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 208,
+            "group": "MUSCLE UP",
+            "variation": "Negative",
+            "movement": "Multi-Plane",
+            "level": 0,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 209,
+            "group": "MUSCLE UP",
+            "variation": "Box assisted",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 210,
+            "group": "MUSCLE UP",
+            "variation": "Kipping",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 211,
+            "group": "MUSCLE UP",
+            "variation": "Transition",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 212,
+            "group": "MUSCLE UP",
+            "variation": "Strict",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 213,
+            "group": "MUSCLE UP",
+            "variation": "Narrow grip",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 214,
+            "group": "MUSCLE UP",
+            "variation": "False grip",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 215,
+            "group": "MUSCLE UP",
+            "variation": "L-sit",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 216,
+            "group": "MUSCLE UP",
+            "variation": "Wide grip",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 217,
+            "group": "MUSCLE UP",
+            "variation": "Front Lever",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 218,
+            "group": "MUSCLE UP",
+            "variation": "Zig-zag",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 219,
+            "group": "MUSCLE UP",
+            "variation": 360,
+            "movement": "Multi-Plane",
+            "level": 4,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 220,
+            "group": "MUSCLE UP",
+            "variation": "Impossible",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 221,
+            "group": "MUSCLE UP",
+            "variation": "Clap behind back",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 222,
+            "group": "MUSCLE UP",
+            "variation": "Step on the bar",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 223,
+            "group": "MUSCLE UP",
+            "variation": "One arm",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 224,
+            "group": "PLANCHE",
+            "variation": "Frog stand",
+            "movement": "Multi-Plane",
+            "level": 0,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "parallettes": 1,
+            "support": 1
+        },
+        {
+            "id": 225,
+            "group": "PLANCHE",
+            "variation": "Pseudo planche push up",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 226,
+            "group": "PLANCHE",
+            "variation": "Reverse hand push up",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 227,
+            "group": "PLANCHE",
+            "variation": "Tuck swing",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 228,
+            "group": "PLANCHE",
+            "variation": "Bent arm hold",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "support": 1
+        },
+        {
+            "id": 229,
+            "group": "PLANCHE",
+            "variation": "Tuck hold",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "time": 1,
+            "floor": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 230,
+            "group": "PLANCHE",
+            "variation": "Floating pseudo push up",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 231,
+            "group": "PLANCHE",
+            "variation": "Tuck press",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 232,
+            "group": "PLANCHE",
+            "variation": "One leg hold",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "time": 1,
+            "floor": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 233,
+            "group": "PLANCHE",
+            "variation": "Bouncing full press",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 234,
+            "group": "PLANCHE",
+            "variation": "Tuck maltese planche",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "time": 1,
+            "floor": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "lowbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 235,
+            "group": "PLANCHE",
+            "variation": "One leg press",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1,
+            "rings": 1
+        },
+        {
+            "id": 236,
+            "group": "PLANCHE",
+            "variation": "Mechanical advantage",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 237,
+            "group": "PLANCHE",
+            "variation": "One bent arm hold",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "support": 1
+        },
+        {
+            "id": 238,
+            "group": "PLANCHE",
+            "variation": "Straddle press",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "lowbar": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 239,
+            "group": "PLANCHE",
+            "variation": "Straddle hold",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "time": 1,
+            "floor": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "lowbar": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 240,
+            "group": "PLANCHE",
+            "variation": "Full hold",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "lowbar": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 241,
+            "group": "PLANCHE",
+            "variation": "Full press",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "lowbar": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 242,
+            "group": "PLANCHE",
+            "variation": "Dead planche",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "time": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 243,
+            "group": "PLANCHE",
+            "variation": "Maltese planche",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "time": 1,
+            "floor": 1,
+            "rings": 1
+        },
+        {
+            "id": 244,
+            "group": "PLANCHE",
+            "variation": "Maltese cross fingertip",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 245,
+            "group": "PLANCHE",
+            "variation": "Forearm planche",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "time": 1,
+            "floor": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "lowbar": 1
+        },
+        {
+            "id": 246,
+            "group": "PLANCHE",
+            "variation": "One arm hold",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 247,
+            "group": "PLANCHE",
+            "variation": "One arm side hold",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 248,
+            "group": "PLANCHE",
+            "variation": "Flying press",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 249,
+            "group": "PLANCHE",
+            "variation": "360 press",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 250,
+            "group": "FRONT PULL",
+            "variation": "Negative",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 251,
+            "group": "FRONT PULL",
+            "variation": "Pull out",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 252,
+            "group": "FRONT PULL",
+            "variation": "Crank",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 253,
+            "group": "FRONT PULL",
+            "variation": "Tuck front lever",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 254,
+            "group": "FRONT PULL",
+            "variation": "Tuck raise",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 255,
+            "group": "FRONT PULL",
+            "variation": "Half pull up",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 256,
+            "group": "FRONT PULL",
+            "variation": "Elbow manna hold",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "time": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 257,
+            "group": "FRONT PULL",
+            "variation": "Elbow manna raises",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 258,
+            "group": "FRONT PULL",
+            "variation": "L-dragon press",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 259,
+            "group": "FRONT PULL",
+            "variation": "One leg front lever",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 260,
+            "group": "FRONT PULL",
+            "variation": "Straddle raise",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 261,
+            "group": "FRONT PULL",
+            "variation": "Straddle front lever",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 262,
+            "group": "FRONT PULL",
+            "variation": "Full front lever",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "skillstatic": 1,
+            "time": 1,
+            "highbar": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 263,
+            "group": "FRONT PULL",
+            "variation": "In and outs front lever",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 264,
+            "group": "FRONT PULL",
+            "variation": "Pull up",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 265,
+            "group": "FRONT PULL",
+            "variation": "Manna raise",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 266,
+            "group": "FRONT PULL",
+            "variation": "Dragon press",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 267,
+            "group": "FRONT PULL",
+            "variation": "Manna",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1,
+            "parallelbars": 1,
+            "parallettes": 1,
+            "rings": 1
+        },
+        {
+            "id": 268,
+            "group": "FRONT PULL",
+            "variation": "Full raise",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 269,
+            "group": "FRONT PULL",
+            "variation": "Two fingers full raise",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 270,
+            "group": "FRONT PULL",
+            "variation": "Victorian cross",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 271,
+            "group": "FRONT PULL",
+            "variation": "Close to impossible",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 272,
+            "group": "FRONT PULL",
+            "variation": "One arm front lever",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 273,
+            "group": "FRONT PULL",
+            "variation": "One arm raise",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 274,
+            "group": "FRONT PULL",
+            "variation": "Reverse planche",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "parallelbars": 1
+        },
+        {
+            "id": 275,
+            "group": "BACK PULL",
+            "variation": "Negative",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 276,
+            "group": "BACK PULL",
+            "variation": "Reverse australian row",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 277,
+            "group": "BACK PULL",
+            "variation": "Reverse crank",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 278,
+            "group": "BACK PULL",
+            "variation": "Tuck back lever",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 279,
+            "group": "BACK PULL",
+            "variation": "Tuck raise",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 280,
+            "group": "BACK PULL",
+            "variation": "One leg back lever",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 281,
+            "group": "BACK PULL",
+            "variation": "Straddle raise",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 282,
+            "group": "BACK PULL",
+            "variation": "Straddle back lever",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "time": 1,
+            "highbar": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 283,
+            "group": "BACK PULL",
+            "variation": "Full back lever",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "skillstatic": 1,
+            "time": 1,
+            "highbar": 1,
+            "parallelbars": 1,
+            "rings": 1
+        },
+        {
+            "id": 284,
+            "group": "BACK PULL",
+            "variation": "Back lever pull up",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 285,
+            "group": "BACK PULL",
+            "variation": "Full raise",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 286,
+            "group": "BACK PULL",
+            "variation": "Two fingers full raise",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 287,
+            "group": "BACK PULL",
+            "variation": "One arm back lever",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 288,
+            "group": "BACK PULL",
+            "variation": "Maltese cross",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "rings": 1
+        },
+        {
+            "id": 289,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Clutch flag tuck",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 290,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Flag jumps",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 291,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Negative",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 292,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Clutch flag full",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "time": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 293,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Tuck lever",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "time": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 294,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Tuck raise",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 295,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Low lever",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "time": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 296,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "High lever",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "time": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 297,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Straddle lever",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 298,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Straddle raise",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 299,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Upper half pull",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 300,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Lower half pull",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 301,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Full lever",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 302,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Full raise",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 303,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Muscle up",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 304,
+            "group": "SIDE PULL (HUMAN FLAG)",
+            "variation": "Legs through",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "swedishladder": 1,
+            "verticalbar": 1,
+            "support": 1
+        },
+        {
+            "id": 305,
+            "group": "IRON CROSS",
+            "variation": "Negative",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 306,
+            "group": "IRON CROSS",
+            "variation": "Box assisted",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "rings": 1,
+            "support": 1
+        },
+        {
+            "id": 307,
+            "group": "IRON CROSS",
+            "variation": "Forearm hold",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "time": 1,
+            "rings": 1
+        },
+        {
+            "id": 308,
+            "group": "IRON CROSS",
+            "variation": "Forearm pull",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 309,
+            "group": "IRON CROSS",
+            "variation": "Half pull",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 310,
+            "group": "IRON CROSS",
+            "variation": "One arm aperture",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 311,
+            "group": "IRON CROSS",
+            "variation": "Hold",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "skillstatic": 1,
+            "time": 1,
+            "rings": 1
+        },
+        {
+            "id": 312,
+            "group": "IRON CROSS",
+            "variation": "Pull",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 313,
+            "group": "COMBINED",
+            "variation": "Skin the cat",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "mediumbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 314,
+            "group": "COMBINED",
+            "variation": "Tuck yewkis",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 315,
+            "group": "COMBINED",
+            "variation": "Yewkis",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 316,
+            "group": "COMBINED",
+            "variation": "Pull over",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 317,
+            "group": "COMBINED",
+            "variation": "Naner",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 318,
+            "group": "COMBINED",
+            "variation": "Wide yewkis",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 319,
+            "group": "COMBINED",
+            "variation": "Shoulder flag hold",
+            "movement": "Multi-Plane",
+            "level": 3,
+            "skillstatic": 1,
+            "time": 1,
+            "highbar": 1,
+            "support": 1
+        },
+        {
+            "id": 320,
+            "group": "COMBINED",
+            "variation": "Pelican push up",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 321,
+            "group": "COMBINED",
+            "variation": "Tuck maltese press",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 322,
+            "group": "COMBINED",
+            "variation": "Reverse pull over",
+            "movement": "Multi-Plane",
+            "level": 4,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 323,
+            "group": "COMBINED",
+            "variation": "360 pull",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 324,
+            "group": "COMBINED",
+            "variation": "Shoulder flag raise",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 325,
+            "group": "COMBINED",
+            "variation": "Inverted handstand raise",
+            "movement": "Multi-Plane",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 326,
+            "group": "COMBINED",
+            "variation": "Tick tock",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 327,
+            "group": "COMBINED",
+            "variation": "Muscle up to handstand",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 328,
+            "group": "COMBINED",
+            "variation": "Maltese press",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "skilldynamic": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 329,
+            "group": "COMBINED",
+            "variation": "Vangelder",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 330,
+            "group": "COMBINED",
+            "variation": "FL to VC to RevPlanche",
+            "movement": "Multi-Plane",
+            "level": 6,
+            "repetitions": 1,
+            "rings": 1
+        },
+        {
+            "id": 331,
+            "group": "GRIP",
+            "variation": "Bar dead hang",
+            "movement": "Forearm",
+            "level": 1,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 332,
+            "group": "GRIP",
+            "variation": "One arm bar dead hang",
+            "movement": "Forearm",
+            "level": 3,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 333,
+            "group": "GRIP",
+            "variation": "Alternating arm dead hang",
+            "movement": "Forearm",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 334,
+            "group": "GRIP",
+            "variation": "False grip hang",
+            "movement": "Forearm",
+            "level": 1,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 335,
+            "group": "GRIP",
+            "variation": "Two fingers hang",
+            "movement": "Forearm",
+            "level": 2,
+            "time": 1,
+            "highbar": 1,
+            "rings": 1
+        },
+        {
+            "id": 336,
+            "group": "GRIP",
+            "variation": "Inverted hand plank hold",
+            "movement": "Forearm",
+            "level": 3,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 337,
+            "group": "GRIP",
+            "variation": "Fingertip hold",
+            "movement": "Forearm",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 338,
+            "group": "GRIP",
+            "variation": "Finger extension push",
+            "movement": "Forearm",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 339,
+            "group": "SPECIFIC",
+            "variation": "Rings straight arms hold",
+            "movement": "Stabilizing",
+            "level": 1,
+            "time": 1,
+            "rings": 1
+        },
+        {
+            "id": 340,
+            "group": "SPECIFIC",
+            "variation": "Rings inverted hang",
+            "movement": "Stabilizing",
+            "level": 2,
+            "time": 1,
+            "rings": 1
+        },
+        {
+            "id": 341,
+            "group": "SPECIFIC",
+            "variation": "Contralateral limb raises",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 342,
+            "group": "SPECIFIC",
+            "variation": "Pilates leg pulls",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 343,
+            "group": "SPECIFIC",
+            "variation": "Side leg pulls",
+            "movement": "Squat",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 344,
+            "group": "SPECIFIC",
+            "variation": "Half bridge hold",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 345,
+            "group": "SPECIFIC",
+            "variation": "One leg half bridge hold",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 346,
+            "group": "SPECIFIC",
+            "variation": "Bridge hold",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 347,
+            "group": "SPECIFIC",
+            "variation": "Bridge push up",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 348,
+            "group": "SPECIFIC",
+            "variation": "Reverse bridge",
+            "movement": "Multi-Plane",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 349,
+            "group": "SPECIFIC",
+            "variation": "Reverse hollow body hold",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 350,
+            "group": "SPECIFIC",
+            "variation": "Half reverse hollow body",
+            "movement": "Multi-Plane",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 351,
+            "group": "SPECIFIC",
+            "variation": "Prone I's/Y's/W's",
+            "movement": "Row",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 352,
+            "group": "SPECIFIC",
+            "variation": "Prone hold",
+            "movement": "Row",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 353,
+            "group": "SPECIFIC",
+            "variation": "Front plate neck",
+            "movement": "Neck",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 354,
+            "group": "SPECIFIC",
+            "variation": "Back plate neck",
+            "movement": "Neck",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 355,
+            "group": "SPECIFIC",
+            "variation": "Head plank",
+            "movement": "Neck",
+            "level": 3,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 356,
+            "group": "SPECIFIC",
+            "variation": "Wall headstand",
+            "movement": "Neck",
+            "level": 4,
+            "time": 1,
+            "wall": 1
+        },
+        {
+            "id": 357,
+            "group": "SPECIFIC",
+            "variation": "Free headstand",
+            "movement": "Neck",
+            "level": 6,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 358,
+            "group": "CRUNCH",
+            "variation": "Regular",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 359,
+            "group": "CRUNCH",
+            "variation": "Hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 360,
+            "group": "CRUNCH",
+            "variation": "Reverse",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 361,
+            "group": "CRUNCH",
+            "variation": "Half",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 362,
+            "group": "CRUNCH",
+            "variation": "Half hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 363,
+            "group": "CRUNCH",
+            "variation": "Bicycle",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 364,
+            "group": "CRUNCH",
+            "variation": "Head lift",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 365,
+            "group": "CRUNCH",
+            "variation": "Heel touch",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 366,
+            "group": "CRUNCH",
+            "variation": "Half one leg hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 367,
+            "group": "CRUNCH",
+            "variation": "V-crunch",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 368,
+            "group": "CRUNCH",
+            "variation": "Toe touch",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 369,
+            "group": "CRUNCH",
+            "variation": "Alternating toe touch",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 370,
+            "group": "CRUNCH",
+            "variation": "Crossed toe touch hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 371,
+            "group": "CRUNCH",
+            "variation": "To side",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 372,
+            "group": "CRUNCH",
+            "variation": "Twisting",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 373,
+            "group": "CRUNCH",
+            "variation": "Reverse to side",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 374,
+            "group": "CRUNCH",
+            "variation": "Half to side",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 375,
+            "group": "CRUNCH",
+            "variation": "Side",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 376,
+            "group": "CRUNCH",
+            "variation": "Dead bug",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 377,
+            "group": "CRUNCH",
+            "variation": "Double",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 378,
+            "group": "CRUNCH",
+            "variation": "Criss cross",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 379,
+            "group": "CRUNCH",
+            "variation": "Crossover",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 380,
+            "group": "CRUNCH",
+            "variation": "Arms extended",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 381,
+            "group": "CRUNCH",
+            "variation": "Double toe touch",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 382,
+            "group": "CRUNCH",
+            "variation": "Double twist hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 383,
+            "group": "CRUNCH",
+            "variation": "Alternating double toe touch",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 384,
+            "group": "CRUNCH",
+            "variation": "One breath",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 385,
+            "group": "CRUNCH",
+            "variation": "Double dead bug",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 386,
+            "group": "CRUNCH",
+            "variation": "Thai crunches",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 387,
+            "group": "CRUNCH",
+            "variation": "X double",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 388,
+            "group": "CRUNCH",
+            "variation": "Double twisting",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 389,
+            "group": "CRUNCH",
+            "variation": "Monk",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 390,
+            "group": "CRUNCH",
+            "variation": "Monk hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "time": 1,
+            "highbar": 1
+        },
+        {
+            "id": 391,
+            "group": "CRUNCH",
+            "variation": "Monk twisting",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 6,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 392,
+            "group": "SIT UP",
+            "variation": "Regular",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 393,
+            "group": "SIT UP",
+            "variation": "Hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 394,
+            "group": "SIT UP",
+            "variation": "Russian twist",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "time": 1,
+            "support": 1
+        },
+        {
+            "id": 395,
+            "group": "SIT UP",
+            "variation": "Hold with kicks",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 396,
+            "group": "SIT UP",
+            "variation": "Russian twist alternating leg touch",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 397,
+            "group": "SIT UP",
+            "variation": "Double russian twist",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 398,
+            "group": "SIT UP",
+            "variation": "Side raise",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 399,
+            "group": "SIT UP",
+            "variation": "Slow motion",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 400,
+            "group": "SIT UP",
+            "variation": "Twisting",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 401,
+            "group": "SIT UP",
+            "variation": "Crossover",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 402,
+            "group": "SIT UP",
+            "variation": "Roll up",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 403,
+            "group": "SIT UP",
+            "variation": "Roll up + back roll",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 6,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 404,
+            "group": "LYING LEG RAISE",
+            "variation": "Regular",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 405,
+            "group": "LYING LEG RAISE",
+            "variation": "Slow negative",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 406,
+            "group": "LYING LEG RAISE",
+            "variation": "Two inches hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 407,
+            "group": "LYING LEG RAISE",
+            "variation": "Pulse up",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 408,
+            "group": "LYING LEG RAISE",
+            "variation": "Flutter crunches",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 409,
+            "group": "LYING LEG RAISE",
+            "variation": "Flutter kicks",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 410,
+            "group": "LYING LEG RAISE",
+            "variation": "Hollow body hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 411,
+            "group": "LYING LEG RAISE",
+            "variation": "Hollow body rolls",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 412,
+            "group": "LYING LEG RAISE",
+            "variation": "Side raise",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 413,
+            "group": "LYING LEG RAISE",
+            "variation": "Scissors",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 414,
+            "group": "LYING LEG RAISE",
+            "variation": "Back lift",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 415,
+            "group": "LYING LEG RAISE",
+            "variation": "Back lift hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "time": 1,
+            "support": 1
+        },
+        {
+            "id": 416,
+            "group": "LYING LEG RAISE",
+            "variation": "Windmill",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 3,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 417,
+            "group": "LYING LEG RAISE",
+            "variation": "Double",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 418,
+            "group": "LYING LEG RAISE",
+            "variation": "Double pulse up",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 419,
+            "group": "LYING LEG RAISE",
+            "variation": "Half lying windshield wipers",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 420,
+            "group": "LYING LEG RAISE",
+            "variation": "Lying windshield wipers",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 421,
+            "group": "PLANK",
+            "variation": "Knee plank",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 0,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 422,
+            "group": "PLANK",
+            "variation": "Regular",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 423,
+            "group": "PLANK",
+            "variation": "Lift",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 424,
+            "group": "PLANK",
+            "variation": "Twisting core",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 425,
+            "group": "PLANK",
+            "variation": "Side",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 426,
+            "group": "PLANK",
+            "variation": "Side lift",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 1,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 427,
+            "group": "PLANK",
+            "variation": "Spiderman",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 428,
+            "group": "PLANK",
+            "variation": "Side rotation",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 429,
+            "group": "PLANK",
+            "variation": "Walking",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 430,
+            "group": "PLANK",
+            "variation": "Reverse",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 431,
+            "group": "PLANK",
+            "variation": "Semi advanced",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 432,
+            "group": "PLANK",
+            "variation": "Advanced",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 433,
+            "group": "PLANK",
+            "variation": "One leg",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 434,
+            "group": "PLANK",
+            "variation": "Elbows off",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 435,
+            "group": "PLANK",
+            "variation": "One arm",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 436,
+            "group": "PLANK",
+            "variation": "Advanced one leg",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 437,
+            "group": "PLANK",
+            "variation": "Advanced aperture",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 438,
+            "group": "PLANK",
+            "variation": "One arm and one leg",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 439,
+            "group": "PLANK",
+            "variation": "Lalanne hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "skillstatic": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 440,
+            "group": "PLANK",
+            "variation": "Wall",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 6,
+            "time": 1,
+            "wall": 1
+        },
+        {
+            "id": 441,
+            "group": "PLANK",
+            "variation": "Climbdown",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 6,
+            "repetitions": 1,
+            "verticalbar": 1
+        },
+        {
+            "id": 442,
+            "group": "PIKE UP",
+            "variation": "Drift",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 443,
+            "group": "PIKE UP",
+            "variation": "Drift to side",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 444,
+            "group": "PIKE UP",
+            "variation": "Jump toe touch to side",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 445,
+            "group": "PIKE UP",
+            "variation": "Spring ",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 446,
+            "group": "L-SIT",
+            "variation": "Tuck hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 0,
+            "time": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 447,
+            "group": "L-SIT",
+            "variation": "L-hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 448,
+            "group": "L-SIT",
+            "variation": "Tuck raises",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 449,
+            "group": "L-SIT",
+            "variation": "L raises",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 450,
+            "group": "L-SIT",
+            "variation": "Twisted tuck raises",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 451,
+            "group": "L-SIT",
+            "variation": "Twisting L",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 452,
+            "group": "L-SIT",
+            "variation": "Flutter kicks",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 453,
+            "group": "L-SIT",
+            "variation": "Advanced L-hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 454,
+            "group": "L-SIT",
+            "variation": "L to V",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 455,
+            "group": "L-SIT",
+            "variation": "V-hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "time": 1,
+            "parallelbars": 1,
+            "parallettes": 1
+        },
+        {
+            "id": 456,
+            "group": "V-UP",
+            "variation": "Half",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 457,
+            "group": "V-UP",
+            "variation": "V-hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 458,
+            "group": "V-UP",
+            "variation": "Half leg in and out",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 459,
+            "group": "V-UP",
+            "variation": "V-twist",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 460,
+            "group": "V-UP",
+            "variation": "Half to side",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 461,
+            "group": "V-UP",
+            "variation": "Tuck",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 462,
+            "group": "V-UP",
+            "variation": "Alternating toe touch",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 463,
+            "group": "V-UP",
+            "variation": "Straddle",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 464,
+            "group": "V-UP",
+            "variation": "Side V-sit hold",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 4,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 465,
+            "group": "V-UP",
+            "variation": "Full",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 466,
+            "group": "V-UP",
+            "variation": "Side one arm",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 5,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 467,
+            "group": "DRAGON FLAG",
+            "variation": "Negative",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 0,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 468,
+            "group": "DRAGON FLAG",
+            "variation": "Tuck",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 0,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 469,
+            "group": "DRAGON FLAG",
+            "variation": "Raise",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 470,
+            "group": "DRAGON FLAG",
+            "variation": "Hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "support": 1
+        },
+        {
+            "id": 471,
+            "group": "DRAGON FLAG",
+            "variation": "Flutter kicks",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "support": 1
+        },
+        {
+            "id": 472,
+            "group": "DRAGON FLAG",
+            "variation": "Half to top",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 473,
+            "group": "DRAGON FLAG",
+            "variation": "In and outs",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 474,
+            "group": "DRAGON FLAG",
+            "variation": "Double",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 475,
+            "group": "DRAGON FLAG",
+            "variation": "Windshield wipers",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 4,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 476,
+            "group": "DRAGON FLAG",
+            "variation": "Side",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 4,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 477,
+            "group": "DRAGON FLAG",
+            "variation": "One arm",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 478,
+            "group": "DRAGON FLAG",
+            "variation": "Shoulder flag hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "skillstatic": 1,
+            "time": 1,
+            "verticalbar": 1
+        },
+        {
+            "id": 479,
+            "group": "DRAGON FLAG",
+            "variation": "Shoulder flag raise",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 6,
+            "repetitions": 1,
+            "verticalbar": 1
+        },
+        {
+            "id": 480,
+            "group": "HANGING LEG RAISE",
+            "variation": "Knee raise",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 0,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 481,
+            "group": "HANGING LEG RAISE",
+            "variation": "Knee raise hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 0,
+            "time": 1,
+            "highbar": 1
+        },
+        {
+            "id": 482,
+            "group": "HANGING LEG RAISE",
+            "variation": "Half",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 483,
+            "group": "HANGING LEG RAISE",
+            "variation": "L-hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 1,
+            "time": 1,
+            "highbar": 1
+        },
+        {
+            "id": 484,
+            "group": "HANGING LEG RAISE",
+            "variation": "Side knee raise",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 485,
+            "group": "HANGING LEG RAISE",
+            "variation": "Straight leg push",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 486,
+            "group": "HANGING LEG RAISE",
+            "variation": "Half windshield wipers",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 2,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 487,
+            "group": "HANGING LEG RAISE",
+            "variation": "Flutter kicks",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 2,
+            "repetitions": 1,
+            "time": 1,
+            "highbar": 1
+        },
+        {
+            "id": 488,
+            "group": "HANGING LEG RAISE",
+            "variation": "Leg raise",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 489,
+            "group": "HANGING LEG RAISE",
+            "variation": "One arm L-hold",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 3,
+            "time": 1,
+            "highbar": 1
+        },
+        {
+            "id": 490,
+            "group": "HANGING LEG RAISE",
+            "variation": "L to V",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 491,
+            "group": "HANGING LEG RAISE",
+            "variation": "Side raise",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 492,
+            "group": "HANGING LEG RAISE",
+            "variation": "Crossed side raise",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 493,
+            "group": "HANGING LEG RAISE",
+            "variation": "Circular",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 494,
+            "group": "HANGING LEG RAISE",
+            "variation": "Windshield wipers",
+            "movement": "Core",
+            "target": "Obliques",
+            "level": 4,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 495,
+            "group": "HANGING LEG RAISE",
+            "variation": "One arm raise",
+            "movement": "Core",
+            "target": "ABS",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "highbar": 1
+        },
+        {
+            "id": 496,
+            "group": "ARCH UP",
+            "variation": "Half bridge raise",
+            "movement": "Core",
+            "target": "Lower back",
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 497,
+            "group": "ARCH UP",
+            "variation": "Regular",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 498,
+            "group": "ARCH UP",
+            "variation": "Hold",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 1,
+            "time": 1,
+            "floor": 1
+        },
+        {
+            "id": 499,
+            "group": "ARCH UP",
+            "variation": "Side to side",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 500,
+            "group": "ARCH UP",
+            "variation": "Twisting",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 501,
+            "group": "ARCH UP",
+            "variation": "Swimmer",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 2,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 502,
+            "group": "ARCH UP",
+            "variation": "Circular",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 503,
+            "group": "ARCH UP",
+            "variation": "Superman",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 504,
+            "group": "ARCH UP",
+            "variation": "Inclined",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 3,
+            "repetitions": 1,
+            "floor": 1,
+            "support": 1
+        },
+        {
+            "id": 505,
+            "group": "ARCH UP",
+            "variation": "Reverse over cliff",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 4,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 506,
+            "group": "ARCH UP",
+            "variation": "Over cliff",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 507,
+            "group": "REVERSE LEG RAISE",
+            "variation": "Reverse hyper",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 1,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 508,
+            "group": "REVERSE LEG RAISE",
+            "variation": "Hold",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 1,
+            "time": 1,
+            "support": 1
+        },
+        {
+            "id": 509,
+            "group": "REVERSE LEG RAISE",
+            "variation": "Reverse flutter kicks",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 510,
+            "group": "REVERSE LEG RAISE",
+            "variation": "Stall bar",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 2,
+            "repetitions": 1,
+            "support": 1
+        },
+        {
+            "id": 511,
+            "group": "REVERSE LEG RAISE",
+            "variation": "Headstand",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 3,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1
+        },
+        {
+            "id": 512,
+            "group": "REVERSE LEG RAISE",
+            "variation": "Wall handstand",
+            "movement": "Core",
+            "target": "Lower back",
+            "level": 5,
+            "levelbreakthrough": 1,
+            "repetitions": 1,
+            "floor": 1,
+            "wall": 1
+        }
+    ]}
