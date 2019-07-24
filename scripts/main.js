@@ -31,14 +31,14 @@ var app = new Vue({
             if(this.filters.length == 0 || this.filters.length == this.movements.length){
                 return false;
             }else{
-                for (var x = 0; x < this.filters.length; x++){
-                    if(this.filters[x] == mov){
+                
+                    if(this.filters.includes(mov)){
                         return false;
                     }else{
                         return true;
                     }
                 }
-            }
+            
               
         },
    
