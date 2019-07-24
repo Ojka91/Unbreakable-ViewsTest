@@ -1,116 +1,117 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no,  user-scalable=no, maximum-scale=1">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1, shrink-to-fit=no,  user-scalable=no, maximum-scale=1">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Unbreakable Training APP</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Heebo&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/styles.css">
 </head>
+
 <body>
- <div id="app" class="height">
-    <!--Main Face-->
+    <div id="app" class="height">
+        <!--Main Face-->
         <div class="row height" id="main" v-if="view === 'main'">
             <div class="col-12 flex-container">
                 <p class="letters unbreakable">Unbreakable App</p>
                 <button type="button" class="btn btn-info butn" v-on:click="changeView('plan')">Get in</button>
             </div>
         </div>
-    <!--Main Face-->
+        <!--Main Face-->
 
-    <!--Select Plan -->
+        <!--Select Plan -->
         <div class="divFlexPlan" id="flex-plan" v-if="view === 'plan'">
-                <div class=" flex-plan ">        
-                        <button type="button" class="butnFilter"  v-on:click="changeView('filter');">Filter</button>
-                    </div>
-            <div class=" flex-plan ">        
-                <button type="button" class="btn btn-info planButton butn"  v-on:click="changeView('routine'); createRoutine(1)">Beginner</button>
+            <div class=" flex-plan ">
+                <button type="button" class="butnFilter" v-on:click="changeView('filter');">Filter</button>
             </div>
-            <div class=" flex-plan "> 
-                <button type="button" class="btn btn-info planButton butn" v-on:click="changeView('routine'); createRoutine(3)">Advanced</button>
+            <div class=" flex-plan ">
+                <button type="button" class="btn btn-info planButton butn"
+                    v-on:click="changeView('routine'); createRoutine(1)">Beginner</button>
             </div>
-            <div class=" flex-plan "> 
-                    <button type="button" class="btn btn-info planButton butn" v-on:click="changeView('routine'); createRoutine(6)">Master</button>
-                </div>
-        
-           <div class=" flex-plan ">        
-                <button type="button" class="btn btn-danger backMenu planButton butn2" v-on:click="changeView('main')">Main Menu</button>
+            <div class=" flex-plan ">
+                <button type="button" class="btn btn-info planButton butn"
+                    v-on:click="changeView('routine'); createRoutine(3)">Advanced</button>
             </div>
-                
-        </div>
-      <!--Select Plan -->
+            <div class=" flex-plan ">
+                <button type="button" class="btn btn-info planButton butn"
+                    v-on:click="changeView('routine'); createRoutine(6)">Master</button>
+            </div>
 
-      <!-- Routine-->
+            <div class=" flex-plan ">
+                <button type="button" class="btn btn-danger backMenu planButton butn2"
+                    v-on:click="changeView('main')">Main Menu</button>
+            </div>
+
+        </div>
+        <!--Select Plan -->
+
+        <!-- Routine-->
         <div class="row height" id="routine" v-if="view === 'routine'">
             <div class="col-12 flex-container">
-                <p>Between 8-12 repetitions of each exercice. If any hold, stand for 30 seconds. At least 5 rounds of each</p>
+                <p>Between 8-12 repetitions of each exercice. If any hold, stand for 30 seconds. At least 5 rounds of
+                    each</p>
             </div>
-            <div class="col-12 flex-container" v-for= "exercice in routine">
-                    <p> {{exercice.group}}, {{exercice.variation}}</p>
-                </div>
+            <div class="col-12 flex-container" v-for="exercice in routine">
+                <p> {{exercice.group}}, {{exercice.variation}}</p>
+            </div>
 
-            <div class="col-12 flex-container ">        
-                    <button type="button" class="btn btn-danger backMenu planButton butn2" v-on:click="changeView('plan')">Back</button>
-                </div>
+            <div class="col-12 flex-container ">
+                <button type="button" class="btn btn-danger backMenu planButton butn2"
+                    v-on:click="changeView('plan')">Back</button>
+            </div>
         </div>
-      <!-- Routine-->
+        <!-- Routine-->
 
-      <!-- Filters-->
-         <div class="row height-filter" id="filter" v-if="view === 'filter'">
-             <div class="flex-filters">
-                    <ul class="unstyled centered">
-                        <div class="row">
-                            <div class="col-6"><li>
-                                    <input class="styled-checkbox" id="styled-checkbox-1" type="checkbox" value="value1">
-                                    <label for="styled-checkbox-1">Pull</label>
-                                  </li></div>
-                            <div class="col-6"><li>
-                                    <input class="styled-checkbox" id="styled-checkbox-2" type="checkbox" value="value2">
-                                    <label for="styled-checkbox-2">Push</label>
-                                  </li></div>
-
+        <!-- Filters-->
+        <div class="row height-filter" id="filter" v-show="view === 'filter'">
+            <div class="flex-filters">
+                <ul class="unstyled centered">
+                    <div class="row">
+                        <div class="col-6" v-for="(movement, index) in movements">
+                            <li>
+                                <input class="styled-checkbox" :id="movement" type="checkbox" value="value1"
+                                    v-on:click="filter(movement)">
+                                <label :for="movement">{{movement}}</label>
+                            </li>
                         </div>
-                        <div class="row width300px">
-                                <div class="col-6"><li>
-                                        <input class="styled-checkbox" id="styled-checkbox-3" type="checkbox" value="value3">
-                                        <label for="styled-checkbox-3">Core</label>
-                                      </li></div>
-                                <div class="col-6"><li>
-                                        <input class="styled-checkbox" id="styled-checkbox-4" type="checkbox" value="value4">
-                                        <label for="styled-checkbox-4">Multi Plane</label>
-                                      </li></div>
-    
-                            </div>
-                            <div class="row">
-                                    <div class="col-6"><li>
-                                            <input class="styled-checkbox" id="styled-checkbox-5" type="checkbox" value="value5">
-                                            <label for="styled-checkbox-5">Squat</label>
-                                          </li></div>        
-                                </div>
-                                
-                          </ul>
 
-                          
-                <div class="flex-container ">        
-                        <button type="button" class="btn btn-danger backMenu planButton butn2" v-on:click="changeView('plan')">Set Filters</button>
                     </div>
+
+
+                </ul>
+
+
+                <div class="flex-container ">
+                    <button type="button" class="btn btn-danger backMenu planButton butn2"
+                        v-on:click="changeView('plan')">Set Filters</button>
                 </div>
+            </div>
         </div>
-      <!-- Filters-->
+        <!-- Filters-->
     </div>
 
 
-      <!-- vuejs development version, includes helpful console warnings -->
+    <!-- vuejs development version, includes helpful console warnings -->
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <!--bootstrap-->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
     <script src="scripts/data.js"></script>
     <script src="scripts/main.js"></script>
 
 </body>
+
 </html>
